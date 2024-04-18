@@ -1,0 +1,33 @@
+.blackBox {
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    /*border: 1px solid black;*/
+}
+
+.whiteBox {
+    background-color: white;
+    width: 20px;
+    height: 20px;
+}
+.mauCam {
+    text-align: center;
+    background-color: darkorange;
+    /*border-collapse: collapse;*/
+    /*!*border-color: darkorange;*!*/
+    width: 20px;
+    height: 20px;
+}
+/*#table {*/
+/*    border: 0px;*/
+/*}*/
+/*tr , td {*/
+/*    border-collapse: collapse;*/
+/*    !*border: none;*!*/
+/*}*/
+table {
+    border-collapse: collapse;
+}
+/*.oGiua {*/
+/*   */
+/*}*/

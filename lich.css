@@ -1,0 +1,67 @@
+#tieuDe {
+    margin-left: 250px;
+    font-weight: bold;
+    font-size: 200%;
+}
+.mauCam {
+    border: 1px solid white;
+    background-color: darkorange;
+    color: white;
+    /*text-transform: uppercase;*/
+    width: 100px;
+    height: 50px;
+    /*justify-content: center;*/
+    text-align: center;
+    font-weight: bold;
+}
+.mauXanh {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+.mauDo {
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+.chuDo {
+    color: red;
+    text-align: center;
+}
+.chuden {
+    color: black;
+}
+.canGiua {
+    height: 50px;
+    border: 2px solid grey;
+    text-align: center;
+
+}
+.duongVien {
+    border: 2px solid grey;
+}
+.thu {
+    height: 50px;
+    text-align: center;
+    /*border: 2px solid white;*/
+}
+table {
+    border-collapse: collapse;
+}
+#dong1 {
+    border: 1px solid white;
+}
+.chuXanh {
+    color: blue;
+    text-align: center;
+}
+.chuDen {
+    color: black;
+    text-align: center;
+}
